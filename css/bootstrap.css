@@ -337,8 +337,8 @@ img {
 hr {
   margin-top: 20px;
   margin-bottom: 20px;
-  border: 0;
-  border-top: 1px solid #eee;
+  border: 5px;
+  border-top: 3px solid #eee;
 }
 .sr-only {
   position: absolute;
@@ -4368,7 +4368,8 @@ a.list-group-item.active > .badge,
   padding: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: green;
+  background-image: url("banner.jpg");
+  background-color:orange;
 }
 .jumbotron h1,
 .jumbotron .h1 {
